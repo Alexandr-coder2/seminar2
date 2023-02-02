@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\spiri\\Desktop\\Seminar 2\\zadacha02\\zadacha02.csproj": {}
+    "C:\\Users\\spiri\\Desktop\\Seminar 2\\zadacha11\\zadacha02.csproj": {}
   },
   "projects": {
-    "C:\\Users\\spiri\\Desktop\\Seminar 2\\zadacha02\\zadacha02.csproj": {
+    "C:\\Users\\spiri\\Desktop\\Seminar 2\\zadacha11\\zadacha02.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\spiri\\Desktop\\Seminar 2\\zadacha02\\zadacha02.csproj",
+        "projectUniqueName": "C:\\Users\\spiri\\Desktop\\Seminar 2\\zadacha11\\zadacha02.csproj",
         "projectName": "zadacha02",
-        "projectPath": "C:\\Users\\spiri\\Desktop\\Seminar 2\\zadacha02\\zadacha02.csproj",
+        "projectPath": "C:\\Users\\spiri\\Desktop\\Seminar 2\\zadacha11\\zadacha02.csproj",
         "packagesPath": "C:\\Users\\spiri\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\spiri\\Desktop\\Seminar 2\\zadacha02\\obj\\",
+        "outputPath": "C:\\Users\\spiri\\Desktop\\Seminar 2\\zadacha11\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\spiri\\AppData\\Roaming\\NuGet\\NuGet.Config"
