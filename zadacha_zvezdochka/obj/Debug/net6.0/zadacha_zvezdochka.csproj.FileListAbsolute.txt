@@ -1,0 +1,15 @@
+C:\Users\spiri\Desktop\Seminar 2\zadacha_zvezdochka\obj\Debug\net6.0\zadacha_zvezdochka.csproj.AssemblyReference.cache
+C:\Users\spiri\Desktop\Seminar 2\zadacha_zvezdochka\obj\Debug\net6.0\zadacha_zvezdochka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spiri\Desktop\Seminar 2\zadacha_zvezdochka\obj\Debug\net6.0\zadacha_zvezdochka.AssemblyInfoInputs.cache
+C:\Users\spiri\Desktop\Seminar 2\zadacha_zvezdochka\obj\Debug\net6.0\zadacha_zvezdochka.AssemblyInfo.cs
+C:\Users\spiri\Desktop\Seminar 2\zadacha_zvezdochka\obj\Debug\net6.0\zadacha_zvezdochka.csproj.CoreCompileInputs.cache
+C:\Users\spiri\Desktop\Seminar 2\zadacha_zvezdochka\bin\Debug\net6.0\zadacha_zvezdochka.exe
+C:\Users\spiri\Desktop\Seminar 2\zadacha_zvezdochka\bin\Debug\net6.0\zadacha_zvezdochka.deps.json
+C:\Users\spiri\Desktop\Seminar 2\zadacha_zvezdochka\bin\Debug\net6.0\zadacha_zvezdochka.runtimeconfig.json
+C:\Users\spiri\Desktop\Seminar 2\zadacha_zvezdochka\bin\Debug\net6.0\zadacha_zvezdochka.dll
+C:\Users\spiri\Desktop\Seminar 2\zadacha_zvezdochka\bin\Debug\net6.0\zadacha_zvezdochka.pdb
+C:\Users\spiri\Desktop\Seminar 2\zadacha_zvezdochka\obj\Debug\net6.0\zadacha_zvezdochka.dll
+C:\Users\spiri\Desktop\Seminar 2\zadacha_zvezdochka\obj\Debug\net6.0\refint\zadacha_zvezdochka.dll
+C:\Users\spiri\Desktop\Seminar 2\zadacha_zvezdochka\obj\Debug\net6.0\zadacha_zvezdochka.pdb
+C:\Users\spiri\Desktop\Seminar 2\zadacha_zvezdochka\obj\Debug\net6.0\zadacha_zvezdochka.genruntimeconfig.cache
+C:\Users\spiri\Desktop\Seminar 2\zadacha_zvezdochka\obj\Debug\net6.0\ref\zadacha_zvezdochka.dll
