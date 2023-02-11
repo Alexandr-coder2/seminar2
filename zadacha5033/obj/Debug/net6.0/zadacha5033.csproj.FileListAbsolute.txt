@@ -3,3 +3,13 @@ C:\Users\spiri\Desktop\Seminar 2\zadacha5033\obj\Debug\net6.0\zadacha5033.Genera
 C:\Users\spiri\Desktop\Seminar 2\zadacha5033\obj\Debug\net6.0\zadacha5033.AssemblyInfoInputs.cache
 C:\Users\spiri\Desktop\Seminar 2\zadacha5033\obj\Debug\net6.0\zadacha5033.AssemblyInfo.cs
 C:\Users\spiri\Desktop\Seminar 2\zadacha5033\obj\Debug\net6.0\zadacha5033.csproj.CoreCompileInputs.cache
+C:\Users\spiri\Desktop\Seminar 2\zadacha5033\bin\Debug\net6.0\zadacha5033.exe
+C:\Users\spiri\Desktop\Seminar 2\zadacha5033\bin\Debug\net6.0\zadacha5033.deps.json
+C:\Users\spiri\Desktop\Seminar 2\zadacha5033\bin\Debug\net6.0\zadacha5033.runtimeconfig.json
+C:\Users\spiri\Desktop\Seminar 2\zadacha5033\bin\Debug\net6.0\zadacha5033.dll
+C:\Users\spiri\Desktop\Seminar 2\zadacha5033\bin\Debug\net6.0\zadacha5033.pdb
+C:\Users\spiri\Desktop\Seminar 2\zadacha5033\obj\Debug\net6.0\zadacha5033.dll
+C:\Users\spiri\Desktop\Seminar 2\zadacha5033\obj\Debug\net6.0\refint\zadacha5033.dll
+C:\Users\spiri\Desktop\Seminar 2\zadacha5033\obj\Debug\net6.0\zadacha5033.pdb
+C:\Users\spiri\Desktop\Seminar 2\zadacha5033\obj\Debug\net6.0\zadacha5033.genruntimeconfig.cache
+C:\Users\spiri\Desktop\Seminar 2\zadacha5033\obj\Debug\net6.0\ref\zadacha5033.dll
