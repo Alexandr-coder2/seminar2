@@ -16,12 +16,25 @@ int[] GetArray(int size, int minValue, int maxValue)
     return result;
 }
 
-int[] array = GetArray(4, 99, 1000);
+int CountSum(int[] array)
+{
+    int count = 0;
+
+    foreach (int el in array)
+    {
+
+        if (el % 2 == 0)
+        count++;
+    }
+    return count;
+}
+
+
+int[] array = GetArray(5, 99, 1000);
 Console.WriteLine(String.Join(", ", array));
 
-
-
-Console.WriteLine($"Количество чётных чисел в массиве ");
+int n = CountSum(array);
+Console.WriteLine($"Количество чётных чисел в массиве {n}");
 
 
 
