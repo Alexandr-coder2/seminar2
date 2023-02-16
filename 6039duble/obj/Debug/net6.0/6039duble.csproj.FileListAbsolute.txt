@@ -1,0 +1,15 @@
+C:\Users\spiri\Desktop\Seminar 2\6039duble\obj\Debug\net6.0\6039duble.csproj.AssemblyReference.cache
+C:\Users\spiri\Desktop\Seminar 2\6039duble\obj\Debug\net6.0\6039duble.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spiri\Desktop\Seminar 2\6039duble\obj\Debug\net6.0\6039duble.AssemblyInfoInputs.cache
+C:\Users\spiri\Desktop\Seminar 2\6039duble\obj\Debug\net6.0\6039duble.AssemblyInfo.cs
+C:\Users\spiri\Desktop\Seminar 2\6039duble\obj\Debug\net6.0\6039duble.csproj.CoreCompileInputs.cache
+C:\Users\spiri\Desktop\Seminar 2\6039duble\bin\Debug\net6.0\6039duble.exe
+C:\Users\spiri\Desktop\Seminar 2\6039duble\bin\Debug\net6.0\6039duble.deps.json
+C:\Users\spiri\Desktop\Seminar 2\6039duble\bin\Debug\net6.0\6039duble.runtimeconfig.json
+C:\Users\spiri\Desktop\Seminar 2\6039duble\bin\Debug\net6.0\6039duble.dll
+C:\Users\spiri\Desktop\Seminar 2\6039duble\bin\Debug\net6.0\6039duble.pdb
+C:\Users\spiri\Desktop\Seminar 2\6039duble\obj\Debug\net6.0\6039duble.dll
+C:\Users\spiri\Desktop\Seminar 2\6039duble\obj\Debug\net6.0\refint\6039duble.dll
+C:\Users\spiri\Desktop\Seminar 2\6039duble\obj\Debug\net6.0\6039duble.pdb
+C:\Users\spiri\Desktop\Seminar 2\6039duble\obj\Debug\net6.0\6039duble.genruntimeconfig.cache
+C:\Users\spiri\Desktop\Seminar 2\6039duble\obj\Debug\net6.0\ref\6039duble.dll
