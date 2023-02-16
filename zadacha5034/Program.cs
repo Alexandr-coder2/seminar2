@@ -24,7 +24,7 @@ int CountSum(int[] array)
     {
 
         if (el % 2 == 0)
-        count++;
+        count ++;
     }
     return count;
 }
