@@ -1,0 +1,15 @@
+C:\Users\spiri\Desktop\Seminar 2\Lekcia4001\bin\Debug\net6.0\Lekcia4001.exe
+C:\Users\spiri\Desktop\Seminar 2\Lekcia4001\bin\Debug\net6.0\Lekcia4001.deps.json
+C:\Users\spiri\Desktop\Seminar 2\Lekcia4001\bin\Debug\net6.0\Lekcia4001.runtimeconfig.json
+C:\Users\spiri\Desktop\Seminar 2\Lekcia4001\bin\Debug\net6.0\Lekcia4001.dll
+C:\Users\spiri\Desktop\Seminar 2\Lekcia4001\bin\Debug\net6.0\Lekcia4001.pdb
+C:\Users\spiri\Desktop\Seminar 2\Lekcia4001\obj\Debug\net6.0\Lekcia4001.csproj.AssemblyReference.cache
+C:\Users\spiri\Desktop\Seminar 2\Lekcia4001\obj\Debug\net6.0\Lekcia4001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spiri\Desktop\Seminar 2\Lekcia4001\obj\Debug\net6.0\Lekcia4001.AssemblyInfoInputs.cache
+C:\Users\spiri\Desktop\Seminar 2\Lekcia4001\obj\Debug\net6.0\Lekcia4001.AssemblyInfo.cs
+C:\Users\spiri\Desktop\Seminar 2\Lekcia4001\obj\Debug\net6.0\Lekcia4001.csproj.CoreCompileInputs.cache
+C:\Users\spiri\Desktop\Seminar 2\Lekcia4001\obj\Debug\net6.0\Lekcia4001.dll
+C:\Users\spiri\Desktop\Seminar 2\Lekcia4001\obj\Debug\net6.0\refint\Lekcia4001.dll
+C:\Users\spiri\Desktop\Seminar 2\Lekcia4001\obj\Debug\net6.0\Lekcia4001.pdb
+C:\Users\spiri\Desktop\Seminar 2\Lekcia4001\obj\Debug\net6.0\Lekcia4001.genruntimeconfig.cache
+C:\Users\spiri\Desktop\Seminar 2\Lekcia4001\obj\Debug\net6.0\ref\Lekcia4001.dll
