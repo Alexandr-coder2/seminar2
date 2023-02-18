@@ -45,6 +45,7 @@ void FillArray(int[,] matr)
 int[,] matrix = new int[3, 4];
 PrintArray(matrix);
 Console.WriteLine();
+
 FillArray(matrix);
 PrintArray(matrix);
 
