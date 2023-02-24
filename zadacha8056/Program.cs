@@ -28,17 +28,18 @@ void PrintArray(int[,] inArray)
     }
 }
 
-void FindSmallerSum(int[,] Array)
+void FindSmallerSum(int[,] inarray)
 {
+    int min = 0;
     int minRow = 1;
+    int sum;
     bool isStarted = false;
-    for (int i = 0; i < Array.GetLength(0); i++)
+    for (int i = 0; i < inarray.GetLength(0); i++)
     {
-        int min = 0;
-        int sum = 0;
-        for (int j = 0; j < Array.GetLength(1); j++)
+        sum = 0;
+        for (int j = 0; j < inarray.GetLength(1); j++)
         {
-            sum += Array[i, j];
+            sum += inarray[i, j];
         }
         if (!isStarted || sum < min)
         {
@@ -51,6 +52,16 @@ void FindSmallerSum(int[,] Array)
 }
 
 Console.Clear();
-int[,] Array = GetArray(4, 3, -1, 10);
+
+Console.Write("rows =");
+int rows = int.Parse(Console.ReadLine()!);
+
+Console.Write("columns =");
+int columns = int.Parse(Console.ReadLine()!);
+
+int[,] Array = GetArray(rows, columns, -1, 10);
+Console.WriteLine();
+
 PrintArray(Array);
 FindSmallerSum(Array);
+
