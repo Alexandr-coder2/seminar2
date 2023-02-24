@@ -1,0 +1,15 @@
+C:\Users\spiri\Desktop\Seminar 2\zadacha8056\obj\Debug\net6.0\zadacha8056.csproj.AssemblyReference.cache
+C:\Users\spiri\Desktop\Seminar 2\zadacha8056\obj\Debug\net6.0\zadacha8056.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spiri\Desktop\Seminar 2\zadacha8056\obj\Debug\net6.0\zadacha8056.AssemblyInfoInputs.cache
+C:\Users\spiri\Desktop\Seminar 2\zadacha8056\obj\Debug\net6.0\zadacha8056.AssemblyInfo.cs
+C:\Users\spiri\Desktop\Seminar 2\zadacha8056\obj\Debug\net6.0\zadacha8056.csproj.CoreCompileInputs.cache
+C:\Users\spiri\Desktop\Seminar 2\zadacha8056\bin\Debug\net6.0\zadacha8056.exe
+C:\Users\spiri\Desktop\Seminar 2\zadacha8056\bin\Debug\net6.0\zadacha8056.deps.json
+C:\Users\spiri\Desktop\Seminar 2\zadacha8056\bin\Debug\net6.0\zadacha8056.runtimeconfig.json
+C:\Users\spiri\Desktop\Seminar 2\zadacha8056\bin\Debug\net6.0\zadacha8056.dll
+C:\Users\spiri\Desktop\Seminar 2\zadacha8056\bin\Debug\net6.0\zadacha8056.pdb
+C:\Users\spiri\Desktop\Seminar 2\zadacha8056\obj\Debug\net6.0\zadacha8056.dll
+C:\Users\spiri\Desktop\Seminar 2\zadacha8056\obj\Debug\net6.0\refint\zadacha8056.dll
+C:\Users\spiri\Desktop\Seminar 2\zadacha8056\obj\Debug\net6.0\zadacha8056.pdb
+C:\Users\spiri\Desktop\Seminar 2\zadacha8056\obj\Debug\net6.0\zadacha8056.genruntimeconfig.cache
+C:\Users\spiri\Desktop\Seminar 2\zadacha8056\obj\Debug\net6.0\ref\zadacha8056.dll
