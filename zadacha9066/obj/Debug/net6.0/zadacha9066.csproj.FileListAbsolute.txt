@@ -1,0 +1,15 @@
+C:\Users\spiri\Desktop\Seminar 2\zadacha9066\bin\Debug\net6.0\zadacha9066.exe
+C:\Users\spiri\Desktop\Seminar 2\zadacha9066\bin\Debug\net6.0\zadacha9066.deps.json
+C:\Users\spiri\Desktop\Seminar 2\zadacha9066\bin\Debug\net6.0\zadacha9066.runtimeconfig.json
+C:\Users\spiri\Desktop\Seminar 2\zadacha9066\bin\Debug\net6.0\zadacha9066.dll
+C:\Users\spiri\Desktop\Seminar 2\zadacha9066\bin\Debug\net6.0\zadacha9066.pdb
+C:\Users\spiri\Desktop\Seminar 2\zadacha9066\obj\Debug\net6.0\zadacha9066.csproj.AssemblyReference.cache
+C:\Users\spiri\Desktop\Seminar 2\zadacha9066\obj\Debug\net6.0\zadacha9066.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spiri\Desktop\Seminar 2\zadacha9066\obj\Debug\net6.0\zadacha9066.AssemblyInfoInputs.cache
+C:\Users\spiri\Desktop\Seminar 2\zadacha9066\obj\Debug\net6.0\zadacha9066.AssemblyInfo.cs
+C:\Users\spiri\Desktop\Seminar 2\zadacha9066\obj\Debug\net6.0\zadacha9066.csproj.CoreCompileInputs.cache
+C:\Users\spiri\Desktop\Seminar 2\zadacha9066\obj\Debug\net6.0\zadacha9066.dll
+C:\Users\spiri\Desktop\Seminar 2\zadacha9066\obj\Debug\net6.0\refint\zadacha9066.dll
+C:\Users\spiri\Desktop\Seminar 2\zadacha9066\obj\Debug\net6.0\zadacha9066.pdb
+C:\Users\spiri\Desktop\Seminar 2\zadacha9066\obj\Debug\net6.0\zadacha9066.genruntimeconfig.cache
+C:\Users\spiri\Desktop\Seminar 2\zadacha9066\obj\Debug\net6.0\ref\zadacha9066.dll
