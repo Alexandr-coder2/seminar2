@@ -6,8 +6,9 @@ Console.Clear();
 
 int SumDig(int n)
 {
-if (n == 0) return 0;
-return n % 10 + SumDig(n / 10);
+    if (n == 0)
+        return 0;
+    return n % 10 + SumDig(n / 10);
 }
 
 Console.Write("Введите число N: ");
