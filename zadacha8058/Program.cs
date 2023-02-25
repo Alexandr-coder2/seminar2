@@ -51,12 +51,14 @@ int[,] MultiplyMatrix(int[,] matrixA, int[,] matrixB)
 
 Console.Clear();
 
- 
 int[,] matrixA = GetMatrix(4, 4, -9, 9);
-int[,] matrixB = GetMatrix(4, 4, -9, 9);
-MultiplyMatrix(matrixA, matrixB);
 PrintMatrix(matrixA);
-
 Console.WriteLine();
+ int[,] matrixB = GetMatrix(4, 4, -9, 9);
 PrintMatrix(matrixB);
+Console.WriteLine();
+int[,] matrixC = MultiplyMatrix(matrixA, matrixB);
+PrintMatrix(matrixC);
+
+
 
